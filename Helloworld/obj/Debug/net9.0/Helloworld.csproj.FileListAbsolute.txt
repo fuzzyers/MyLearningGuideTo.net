@@ -1,0 +1,14 @@
+e:\c\Helloworld\bin\Debug\net9.0\Helloworld.exe
+e:\c\Helloworld\bin\Debug\net9.0\Helloworld.deps.json
+e:\c\Helloworld\bin\Debug\net9.0\Helloworld.runtimeconfig.json
+e:\c\Helloworld\bin\Debug\net9.0\Helloworld.dll
+e:\c\Helloworld\bin\Debug\net9.0\Helloworld.pdb
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.AssemblyInfoInputs.cache
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.AssemblyInfo.cs
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.csproj.CoreCompileInputs.cache
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.dll
+e:\c\Helloworld\obj\Debug\net9.0\refint\Helloworld.dll
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.pdb
+e:\c\Helloworld\obj\Debug\net9.0\Helloworld.genruntimeconfig.cache
+e:\c\Helloworld\obj\Debug\net9.0\ref\Helloworld.dll
